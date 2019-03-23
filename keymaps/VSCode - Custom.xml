@@ -37,8 +37,13 @@
   <action id="CheckinProject" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ClassTemplateNavigation" />
+  <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
@@ -64,10 +69,12 @@
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift alt a" />
+    <keyboard-shortcut first-keystroke="shift ctrl number_sign" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
@@ -205,9 +212,6 @@
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
-  <action id="Tab">
-    <keyboard-shortcut first-keystroke="Tab" />
-  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
@@ -241,6 +245,13 @@
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl m" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -260,6 +271,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
@@ -474,6 +486,9 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="Tab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="TagDocumentationNavigation" />
   <action id="TodoViewGroupByShowPackages" />
@@ -527,26 +542,4 @@
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
-    <action id="CloseActiveTab" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift alt a" />
-    <keyboard-shortcut first-keystroke="shift ctrl number_sign" />
-  </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl number_sign" />
-  </action>
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
-  </action>
-  <action id="Git.Merge">
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl m" />
-  </action>
-  <action id="GotoLine" />
 </keymap>
