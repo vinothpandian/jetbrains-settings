@@ -3,7 +3,7 @@
     <property name="created">2019-03-23T11:40:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-23T11:41:24</property>
+    <property name="modified">2019-03-25T16:03:11</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -1132,11 +1132,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -1160,11 +1155,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="4d5d3d" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
