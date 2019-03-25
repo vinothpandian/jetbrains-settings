@@ -1,4 +1,5 @@
 <keymap version="1" name="VS Code - Vinoth" parent="VS Code">
+  <action id="ActivateProjectToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl #10000d6" />
@@ -25,4 +26,8 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl m" />
   </action>
   <action id="GotoLine" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
 </keymap>
