@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl #10000d6" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl k" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
