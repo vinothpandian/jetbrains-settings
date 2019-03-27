@@ -1,0 +1,17 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/s4g/optimization-framework/.idea/optimization-framework.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="4ca73b9cfc169337e4d7196ed1261c55714d82079ce00ac6" />
+              <option name="urlString" value="http://localhost:8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
