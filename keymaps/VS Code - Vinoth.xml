@@ -6,6 +6,7 @@
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
@@ -21,6 +22,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
+  <action id="EditorDeleteLine" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
