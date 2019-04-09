@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -70,6 +70,14 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Favorites</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
