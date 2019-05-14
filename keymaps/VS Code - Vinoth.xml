@@ -23,6 +23,13 @@
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
@@ -31,6 +38,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl m" />
   </action>
   <action id="GotoLine" />
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
