@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -142,7 +142,7 @@
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+V'</ShortCut>
           <Description>Paste without Formatting</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -167,6 +167,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'ofw'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Split Vertically">
+        <Item>
+          <IdeaActionID>SplitVertically</IdeaActionID>
+          <ShortCut>'Ctrl+\' or 'Ctrl+Shift+E'</ShortCut>
+          <Description>Split Vertically</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -198,7 +206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'ofw'</Description>
-          <Count>21</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'utils'">
