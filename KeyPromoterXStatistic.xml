@@ -49,12 +49,28 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Alt+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -191,6 +207,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'ofw'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show in Files">
+        <Item>
+          <IdeaActionID>RevealIn</IdeaActionID>
+          <ShortCut>'Ctrl+K, R'</ShortCut>
+          <Description>Show in Files</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Split Vertically">
