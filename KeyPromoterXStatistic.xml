@@ -54,7 +54,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Alt+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -222,7 +222,7 @@
           <IdeaActionID>SplitVertically</IdeaActionID>
           <ShortCut>'Ctrl+\' or 'Ctrl+Shift+E'</ShortCut>
           <Description>Split Vertically</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
