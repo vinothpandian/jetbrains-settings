@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+D'</ShortCut>
           <Description>Debug</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'utils'">
@@ -238,7 +238,7 @@
           <IdeaActionID>SplitVertically</IdeaActionID>
           <ShortCut>'Ctrl+\' or 'Ctrl+Shift+E'</ShortCut>
           <Description>Split Vertically</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
