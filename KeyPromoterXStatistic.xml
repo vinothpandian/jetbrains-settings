@@ -78,7 +78,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+D'</ShortCut>
           <Description>Debug</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'utils'">
@@ -271,6 +271,14 @@
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'ofw'</Description>
           <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'opt-eg'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'opt-eg'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'utils'">
