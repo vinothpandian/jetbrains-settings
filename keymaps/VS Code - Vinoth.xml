@@ -45,6 +45,9 @@
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
