@@ -1,8 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Key Promoter X" displayType="NONE" shouldLog="false" />
-    <notification groupId="Material Theme Notifications" displayType="NONE" />
-    <notification groupId="String Manipulation donation" displayType="STICKY_BALLOON" shouldLog="false" />
-  </component>
-</application>
