@@ -4,6 +4,7 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -11,9 +12,15 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="indicatorThickness" value="1" />
+    <option name="leftTreeIndent" value="4" />
+    <option name="rightTreeIndent" value="8" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="40" />
     <option name="accentColor" value="7e57c2" />
     <option name="selectedTheme" value="NIGHT_OWL" />
